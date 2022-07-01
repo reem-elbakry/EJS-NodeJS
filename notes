@@ -1,0 +1,20 @@
+dependencies >>> axios, body-parser, ejs(template engine), express
+
+public >> css, js, imgs
+
+scss >> for nesting???
+
+live sass compiler >> scss to css
+
+setup static files using
+
+do name functionality >>> middleware function to save files within a given root directory
+
+dirname >> root dir of the proj
+
+axios >> hepling in error handling??
+make sure that data is passed in a json file
+
+s?search=
+
+npm run build:css
